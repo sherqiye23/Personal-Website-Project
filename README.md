@@ -1,1 +1,2 @@
-it can be said that it is my personal site project. I'm the little kid in the picture sjsjsj
+This is a personal page I wrote after watching YouTube.
+I'm the child in the picture sjsjsj

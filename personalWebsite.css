@@ -12,13 +12,14 @@ img{
 
 .box{
     width: 450px;
-    background: #2E4F87;
+    background: #2e4f87b9;
     padding: 30px;
     text-align: center;
     margin: auto;
     margin-top: 7%;
     color: aliceblue;
     font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
 }
 
 .box img{
@@ -35,7 +36,7 @@ img{
 
 .box h1{
     font-size: 50px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     font-weight: 100;
 }
 
